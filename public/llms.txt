@@ -1,0 +1,116 @@
+# yuval — Generative Engine Optimization Map
+
+> A modern fashion design landing page focused on showcasing creative fashion work, designs, and collections. The brand aims for a contemporary, sleek aesthetic that reflects the cutting-edge nature of fashion design.
+
+---
+
+## Pages
+
+### בית
+https://yuval-f147bdf8.zappy5.app
+ברוכים הבאים לסטודיו לעיצוב אופנה עכשווי. כאן תמצאו השראה, קולקציות נועזות ויצירות שמגדירות מחדש סטייל. הצטרפו למסע האופנתי של יובל נח הררי וגלו את החזון הייחודי שלנו.
+
+### גישת עיצוב
+https://yuval-f147bdf8.zappy5.app/design-approach
+גלו את גישת העיצוב פורצת הדרך שמאחורי כל יצירה. אנו משלבים אמנות, חדשנות ומחשבה מעמיקה כדי לעצב אופנה שמספרת סיפור. למדו על התהליך היצירתי של הררי יובל נח.
+
+### תיק עבודות
+https://yuval-f147bdf8.zappy5.app/portfolio
+עיינו בתיק עבודות מרהיב המציג את מיטב היצירות והקולקציות האחרונות. כל פריט משקף דיוק, יצירתיות ותעוזה עיצובית. התרשמו מהעולם החזותי של המחבר יובל נח הררי.
+
+### צור קשר
+https://yuval-f147bdf8.zappy5.app/contact
+מוכנים להפוך רעיון למציאות אופנתית? צרו קשר עם הסטודיו לשיתופי פעולה, הזמנות מותאמות אישית וכל שאלה. אנחנו כאן כדי להקשיב ולעצב עבורכם את החלום הבא.
+
+### Cart
+https://yuval-f147bdf8.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://yuval-f147bdf8.zappy5.app/checkout
+תשלום
+
+### Login
+https://yuval-f147bdf8.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://yuval-f147bdf8.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://yuval-f147bdf8.zappy5.app/order-success
+תודה שנרשמת לקורס
+
+### תודה רבה - פנייתך התקבלה | יובל נח הררי
+https://yuval-f147bdf8.zappy5.app/thank-you
+הודעתך לסטודיו העיצוב של יובל נח הררי התקבלה בהצלחה. תודה על פנייתך, צוות הררי יובל נח יחזור אליך בהקדם האפשרי עם מענה מקצועי.
+
+### Courses
+https://yuval-f147bdf8.zappy5.app/courses
+Browse all available courses.
+
+### Course Category
+https://yuval-f147bdf8.zappy5.app/category/:slug
+Browse courses in this category.
+
+### Course Detail
+https://yuval-f147bdf8.zappy5.app/courses/:slug
+Course details and curriculum.
+
+### Lesson
+https://yuval-f147bdf8.zappy5.app/lesson/:lessonId
+Lesson player.
+
+### My Learning
+https://yuval-f147bdf8.zappy5.app/my-learning
+Your enrolled courses and progress.
+
+### Certificate
+https://yuval-f147bdf8.zappy5.app/certificate/:code
+Verify a course completion certificate.
+
+## Legal & Policy
+
+### Privacy Policy
+https://yuval-f147bdf8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://yuval-f147bdf8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://yuval-f147bdf8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About yuval
+A modern fashion design landing page focused on showcasing creative fashion work, designs, and collections. The brand aims for a contemporary, sleek aesthetic that reflects the cutting-edge nature of fashion design.
+
+## Target Audience
+- בעלי בוטיק אופנה
+- מעצבי אופנה מתחילים
+- קניינים בתחום האופנה
+
+## Industry
+Fashion Design
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://yuval-f147bdf8.zappy5.app/sitemap.xml
+- Robots: https://yuval-f147bdf8.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://yuval-f147bdf8.zappy5.app/llms-full.txt
+- Products (JSON): https://yuval-f147bdf8.zappy5.app/products.json
+- Products (Google Merchant RSS): https://yuval-f147bdf8.zappy5.app/product-feed.xml
